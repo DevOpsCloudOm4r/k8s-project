@@ -99,7 +99,7 @@ This project demonstrates a three-tier architecture deployment using Kubernetes 
 
 
 
-5. **Set Up GitHub Actions **
+5. ** Set Up GitHub Actions **
 
    **To enable CI/CD with GitHub Actions, apply the service account and role binding:**
 
